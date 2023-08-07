@@ -5,16 +5,17 @@ NONE_SELECTED = '0'
 
 customers = '1'
 let location = 'RSA'
-currency = null
+ let currency = "R"
 
 
-if (location === "RSA") { console.log(shipping === 400 && currency === 'R') }
+if (location === "RSA") { console.log(shipping = 400 ,currency) }
 
 
- location= 'NAM'
-if (location === "NAM"){
-    shipping = 600 }
-else {shipping = 800}
+ location= 'NAM' 
+currency= "$"
+if (location === "NAM"){ 
+    console.log(shipping = 600 , currency) }
+else {shipping = 800 , currency}
 
 shoes = 300 * 1
 toys - 100 * 5
