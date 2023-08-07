@@ -17,10 +17,10 @@ if (location === "NAM"){
     console.log(shipping = 600 , currency) }
 else {shipping = 800 , currency}
 
-shoes = 300 * 1
-toys - 100 * 5
+let shoes = 300 * 1
+toys =100 * 5
 shirts = 150 * 'NONE_SELECTED'
-batteries 35 * 2
+batteries = 35 * 2
 pens = 5 * 'NONE_SELECTED' 
 
 shipping = null
